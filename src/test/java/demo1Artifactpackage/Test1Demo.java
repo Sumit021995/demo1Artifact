@@ -7,6 +7,8 @@ public class Test1Demo {
 	public void test1()
 	{
 		System.out.println("Hiiiii");
+
 		System.out.println("Hiiiii from Test Lead Framework");
+		System.out.println("Hiiiii from Sumit");
 	}
 }
